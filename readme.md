@@ -1,6 +1,6 @@
 # Why?
 
-Because why not?
+Because why not? I code this for like 10 mins? so this is 10 minutes quality app.
 
 # How to run?
 
